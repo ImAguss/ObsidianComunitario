@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Templates/Nota-Basica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c0b239932244fbdd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a10f1d31787e650a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Nota-Basica"
             }
           }
         ]
@@ -199,8 +183,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a3113461a828812f",
+  "active": "4a8611fa3d3368ba",
   "lastOpenFiles": [
-    "Bienvenido.md"
+    "Templates",
+    "Bienvenido.md",
+    "Templates/Nota-Basica.md",
+    "Pacheco",
+    "Cesar",
+    "Samper"
   ]
 }
