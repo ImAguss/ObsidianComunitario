@@ -13,3 +13,4 @@ ctrl + Q : Insertar plantilla
 ctrl + M: Mover el archivo actual a otra carpeta
 
 ctrl+ L: Altenar lista (pone una bullet list)
+a
