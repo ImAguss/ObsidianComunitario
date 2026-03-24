@@ -11,14 +11,10 @@
             "id": "a3113461a828812f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Nota-Basica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nota-Basica"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7355e84d6e79f681",
@@ -183,11 +180,39 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4a8611fa3d3368ba",
+  "active": "a3113461a828812f",
   "lastOpenFiles": [
+    "Samper/POO y Python/Variables y Tipos de datos en Python.md",
+    "Samper/POO y Python/Tuplas en Python.md",
+    "Samper/POO y Python/Trabajando con los strings en Python.md",
+    "Samper/POO y Python/Testing con unittest en Python.md",
+    "Samper/POO y Python/Tablas Hash.md",
+    "Samper/POO y Python/Sintaxis Basica Python.md",
+    "Samper/POO y Python/Sets en Python.md",
+    "Samper/POO y Python/Scope de una Variable en Python.md",
+    "Samper/POO y Python/Relaciones entre Clases en Python.md",
+    "Samper/POO y Python/Recursion.md",
+    "Samper/POO y Python/Programacion Orientada a Objetos.md",
+    "Samper/POO y Python/Programacion Orientada a Objetos en Python.md",
+    "Samper/POO y Python/Pilas y Colas.md",
+    "Samper/POO y Python/NameSpaces en Python.md",
+    "Samper/POO y Python/Módulos Built-in de Python.md",
+    "Samper/POO y Python/Métodos mágicos en python.md",
+    "Samper/POO y Python/Métodos en Python.md",
+    "Samper/POO y Python/Modulos.md",
+    "Samper/POO y Python/Listas en Python.md",
+    "Samper/POO y Python/Listas Enlazadas.md",
+    "Samper/POO y Python/Lenguaje de Programación Python.md",
+    "Samper/POO y Python/Lambdas.md",
+    "Samper/POO y Python/Iteradores.md",
+    "Samper/POO y Python/Herencia en Python.md",
+    "Samper/POO y Python/Funciones en Python.md",
+    "Samper/POO y Python/Funciones Nativas en Python.md",
+    "Samper/POO y Python",
+    "Samper/notas",
+    "Samper/Prolog",
+    "Samper/Base de Datos",
     "Templates",
-    "Bienvenido.md",
-    "Templates/Nota-Basica.md",
     "Pacheco",
     "Cesar",
     "Samper"
